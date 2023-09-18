@@ -1,0 +1,19 @@
+
+li:nth-child(2n){
+ color:#ed68ce;
+
+}
+.red-text { color:#ed68ce; font-family:Impact;
+}
+#eduheader {
+color:aqua;
+}
+.main-text {
+    border: 5pt solid #ed68ce;
+    margin: 50px 290px 100px 275px;
+    padding: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 10px 10px 10px; color:#ed68ce;
+
+}
